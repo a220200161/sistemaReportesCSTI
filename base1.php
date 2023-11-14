@@ -26,7 +26,7 @@ include("logverify.php");
                     Reportes<br>
                     <ul class="no-decoration">
                         <li>Registro</li>
-                        <li><a href="reportes.php">Visualización</a></li>
+                        <li><a href="ver-reportes.php">Visualización</a></li>
                     </ul>
                 </li>
                 <li>
